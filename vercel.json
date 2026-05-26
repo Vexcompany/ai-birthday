@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/checkBirthday",
+      "schedule": "0 23 * * *"
+    }
+  ]
+}
