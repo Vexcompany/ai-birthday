@@ -1,0 +1,20 @@
+{
+  "name": "pagaska-birthday-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Pagaska - Auto Story Ulang Tahun",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "@blckrose/baileys": "latest",
+    "axios": "^1.7.0",
+    "canvas": "^2.11.2",
+    "node-cron": "^3.0.3",
+    "pino": "^9.0.0",
+    "pino-pretty": "^11.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
