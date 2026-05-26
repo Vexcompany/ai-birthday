@@ -1,0 +1,542 @@
+[
+  {
+    "generasi": 2,
+    "jabatan": "Ketua Umum",
+    "nama": "Rizky Indra Permana",
+    "panggilan": "Indra",
+    "ttl": "Madiun, 15 Maret 2007",
+    "tanggalLahir": "03-15",
+    "sosmed": "@rizkyndra",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/indra.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Wakil Ketua Umum",
+    "nama": "Dwi Bella Noviyanti",
+    "panggilan": "Bella",
+    "ttl": "Madiun, 20 April 2007",
+    "tanggalLahir": "04-20",
+    "sosmed": "@dwibella",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/bella.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Sekretaris",
+    "nama": "Anastasya Putri Giantio",
+    "panggilan": "Anas",
+    "ttl": "Madiun, 10 Mei 2007",
+    "tanggalLahir": "05-10",
+    "sosmed": "@anastasya",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/anas.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Bendahara",
+    "nama": "Khofifah Tabina Azka Listaningtyas",
+    "panggilan": "Pipah",
+    "ttl": "Madiun, 5 Juni 2007",
+    "tanggalLahir": "06-05",
+    "sosmed": "@khofifah",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/pipah.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "DTP",
+    "nama": "Satria Nur Hidayatullah",
+    "panggilan": "Satria",
+    "ttl": "Madiun, 12 Juli 2007",
+    "tanggalLahir": "07-12",
+    "sosmed": "@satria_nh",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/satria.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "DTP",
+    "nama": "Reyna Natasya Wahyu Safitri",
+    "panggilan": "Reyna",
+    "ttl": "Madiun, 18 Agustus 2007",
+    "tanggalLahir": "08-18",
+    "sosmed": "@reyna_natasya",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/reyna.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Koor GK3",
+    "nama": "Ramzy Cahya Fauzan",
+    "panggilan": "Ramzy",
+    "ttl": "Madiun, 22 September 2007",
+    "tanggalLahir": "09-22",
+    "sosmed": "@ramzy_cf",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/ramzy.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "GK3",
+    "nama": "Sapta Andika Riyanto",
+    "panggilan": "Sapta",
+    "ttl": "Madiun, 30 Oktober 2007",
+    "tanggalLahir": "10-30",
+    "sosmed": "@sapta_ar",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/sapta.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "GK3",
+    "nama": "Farhan Rizky Devannanda",
+    "panggilan": "Farhan",
+    "ttl": "Madiun, 5 November 2007",
+    "tanggalLahir": "11-05",
+    "sosmed": "@farhan_rd",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/farhan.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "GK3",
+    "nama": "Keisya Nabila",
+    "panggilan": "Keisya",
+    "ttl": "Madiun, 14 Desember 2007",
+    "tanggalLahir": "12-14",
+    "sosmed": "@keisya",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/keisya.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Koor Disarda",
+    "nama": "Tata Regita",
+    "panggilan": "Tata",
+    "ttl": "Madiun, 8 Januari 2008",
+    "tanggalLahir": "01-08",
+    "sosmed": "@tata_regita",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/tata.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Disarda",
+    "nama": "Amanda Regina Putri Yuditira",
+    "panggilan": "Amanda",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/amanda.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Disarda",
+    "nama": "Ailen Listiani",
+    "panggilan": "Ailen",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/ailen.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Disarda",
+    "nama": "Lael Rahmadhani",
+    "panggilan": "Lael",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/lael.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Disarda",
+    "nama": "Dea Alif Purwandini",
+    "panggilan": "Dea",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "./assets/images/dea.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Disarda",
+    "nama": "Rizky Dava Mahendra",
+    "panggilan": "Dava",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/dava.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Disarda",
+    "nama": "Alan Pratama",
+    "panggilan": "Alan",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/alan.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Disarda",
+    "nama": "Yohanes David Adhienarta Putra",
+    "panggilan": "David",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/david.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Disarda",
+    "nama": "Aditya Dwi Pratama",
+    "panggilan": "Adit",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/adit.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Disarda",
+    "nama": "Alfarel Belva Falarossy",
+    "panggilan": "Farel",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/farel.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Koor Infokom",
+    "nama": "Giovanni Adhi Pratama",
+    "panggilan": "Vex",
+    "ttl": "Madiun, 24 Maret 2008",
+    "tanggalLahir": "03-24",
+    "sosmed": "@whoisvex",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/vex.png"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Infokom",
+    "nama": "Desy Ariana Putri",
+    "panggilan": "Desy",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@desy",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/desy.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Infokom",
+    "nama": "Yusilla Anggun Vauli",
+    "panggilan": "Yusilla",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/yusilla.jpg"
+  },
+  {
+    "generasi": 2,
+    "jabatan": "Infokom",
+    "nama": "Alisya Desvita Putri",
+    "panggilan": "Alisya",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@disarda1",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/alisya.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Ketua Umum",
+    "nama": "Muhammad Afrizal Nurjananta",
+    "panggilan": "Afrizal",
+    "ttl": "Madiun, 9 Maret 2009",
+    "tanggalLahir": "03-09",
+    "sosmed": "@Afri.jaaal",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/afrizal.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Wakil Ketua Umum",
+    "nama": "Fatimah Az-Zahra",
+    "panggilan": "Zahra",
+    "ttl": "Madiun, 26 Juli 2008",
+    "tanggalLahir": "07-26",
+    "sosmed": "@aarzhhh_",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/zahra.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Sekretaris 1",
+    "nama": "Nazuwa Qurroti Aqyuni Hasna",
+    "panggilan": "Nazuwa",
+    "ttl": "Magetan, 28 Mei 2009",
+    "tanggalLahir": "05-28",
+    "sosmed": "@nanasywaww",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/nazuwa.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Sekretaris 2",
+    "nama": "Asyifa Najwa Nabilla Putri",
+    "panggilan": "Asyifa",
+    "ttl": "Kota Madiun, 14 Januari 2009",
+    "tanggalLahir": "01-14",
+    "sosmed": "@syi1.faaa_",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/asyifa.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Bendahara 1",
+    "nama": "Eva Devi Setyorini",
+    "panggilan": "Eva",
+    "ttl": "Madiun, 8 April 2008",
+    "tanggalLahir": "04-08",
+    "sosmed": "@evadvsty",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/eva.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Bendahara 2",
+    "nama": "Winni Lestari Arti Ningsih",
+    "panggilan": "Winni",
+    "ttl": "Madiun, 6 Januari 2009",
+    "tanggalLahir": "01-06",
+    "sosmed": "@Lovly_winn",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/IMG-20260213-WA0008.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "DTP",
+    "nama": "Yoga Prasetyo Wibowo",
+    "panggilan": "Yoga",
+    "ttl": "Madiun, 27 Oktober 2008",
+    "tanggalLahir": "10-27",
+    "sosmed": "@yogaprsttyo",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/yoga.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "DTP",
+    "nama": "Lelly Anggraini",
+    "panggilan": "Lelly",
+    "ttl": "Sarolangun, 15 Januari 2009",
+    "tanggalLahir": "01-15",
+    "sosmed": "@erjoyedlia",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/lelly.webp"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Koor GK3",
+    "nama": "Fahri Lintang Saputra",
+    "panggilan": "Nopal",
+    "ttl": "Madiun, 11 Februari 2009",
+    "tanggalLahir": "02-11",
+    "sosmed": "@fls._.110209",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/nopal.JPG"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "GK3",
+    "nama": "Clarinta Jida Valery",
+    "panggilan": "Clarinta",
+    "ttl": "Pekanbaru, 31 Mei 2009",
+    "tanggalLahir": "05-31",
+    "sosmed": "@yinsatoru",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/clarinta.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "GK3",
+    "nama": "Nur Azizah Lailatul Munawaroh",
+    "panggilan": "Azizah",
+    "ttl": "Magetan, 19 Maret 2008",
+    "tanggalLahir": "03-19",
+    "sosmed": "@azizuumll",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/nur.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "GK3",
+    "nama": "Violita Ayu Wardani",
+    "panggilan": "Violita",
+    "ttl": "Madiun, 29 Mei 2009",
+    "tanggalLahir": "05-29",
+    "sosmed": "@Piosyalalalaa",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/violita.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "GK3",
+    "nama": "Aymel Oktavia Fitroh Masyaroh",
+    "panggilan": "Aymel",
+    "ttl": "Magetan, 25 Oktober 2008",
+    "tanggalLahir": "10-25",
+    "sosmed": "@_Xyviii08",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/aymel.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Koor Disarda",
+    "nama": "Suci Rofiqoh",
+    "panggilan": "Suci",
+    "ttl": "Kota Madiun, 30 Desember 2008",
+    "tanggalLahir": "12-30",
+    "sosmed": "@_niicth",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/suci.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Disarda",
+    "nama": "Nabila Kayyisa Putri",
+    "panggilan": "Nabila",
+    "ttl": "Madiun, 5 April 2009",
+    "tanggalLahir": "04-05",
+    "sosmed": "@nbilakyyisa",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/nabila.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Disarda",
+    "nama": "Rolly Sadion Astyani",
+    "panggilan": "Rolly",
+    "ttl": "Magetan, 30 Desember 2008",
+    "tanggalLahir": "12-30",
+    "sosmed": "@rolisa__30",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/rolly.jpeg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Disarda",
+    "nama": "Subhanifa Dwi Verbyanti",
+    "panggilan": "Subhanifa",
+    "ttl": "Madiun, 17 Februari 2009",
+    "tanggalLahir": "02-17",
+    "sosmed": "@nadivrya",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/subhanifah.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Disarda",
+    "nama": "Mariska Cahya Dwi Maulida",
+    "panggilan": "Mariska",
+    "ttl": "Magetan, 20 Maret 2009",
+    "tanggalLahir": "03-20",
+    "sosmed": "@maris.kachyaa",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/mariska.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Disarda",
+    "nama": "Jahra' Anasula Farianto",
+    "panggilan": "Yasmin",
+    "ttl": "Madiun, 10 November 2008",
+    "tanggalLahir": "11-10",
+    "sosmed": "@meliorism.ysea",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/yasmin.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Disarda",
+    "nama": "Ella Rahmadani Elliana",
+    "panggilan": "Ella",
+    "ttl": "Madiun, 20 Februari 2008",
+    "tanggalLahir": "02-20",
+    "sosmed": "@ellll",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/ella.png"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Disarda",
+    "nama": "Silvia Nur Ramadhani",
+    "panggilan": "Silvia",
+    "ttl": "Madiun, 28 Agustus 2008",
+    "tanggalLahir": "08-28",
+    "sosmed": "@slvvr4m4",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/silvi.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Disarda",
+    "nama": "Adly Surya Prasetiyo",
+    "panggilan": "Adly",
+    "ttl": "Kota Madiun, 17 November 2008",
+    "tanggalLahir": "11-17",
+    "sosmed": "@718dly",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/adly.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Disarda",
+    "nama": "Meysa Desta Maharani",
+    "panggilan": "Meysa",
+    "ttl": "Kota Madiun, 12 Mei 2008",
+    "tanggalLahir": "05-12",
+    "sosmed": "@mey.ajlh_",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/meysa.webp"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Koor Infokom",
+    "nama": "Richy Yuga Tri Finalya",
+    "panggilan": "Richy",
+    "ttl": "Madiun, 29 Desember 2007",
+    "tanggalLahir": "12-29",
+    "sosmed": "@rchy.yg",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/Richy%20Yuga.webp"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Infokom",
+    "nama": "Anisa Apriliana Tunggal Dewi",
+    "panggilan": "Anisa",
+    "ttl": "Madiun, 12 April 2008",
+    "tanggalLahir": "04-12",
+    "sosmed": "@o_oveuc",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/anisa.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Infokom",
+    "nama": "Bhilqis Tian Zahrotushita",
+    "panggilan": "Bilqis",
+    "ttl": "Bogor, 28 April 2009",
+    "tanggalLahir": "04-28",
+    "sosmed": "@bluetz_summer",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/bilqis.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Infokom",
+    "nama": "Az Zahrah Khanza Dewi Kuwais",
+    "panggilan": "Khanza",
+    "ttl": "Madiun, 3 Oktober 2008",
+    "tanggalLahir": "10-03",
+    "sosmed": "@bibbleeze",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/khanza.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Infokom",
+    "nama": "Nindia Artita Lestari",
+    "panggilan": "Nindia",
+    "ttl": "Madiun, 13 Februari 2009",
+    "tanggalLahir": "02-13",
+    "sosmed": "@ndiaayyl",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/nindia.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Infokom",
+    "nama": "Fahrel Akbar",
+    "panggilan": "Fahrel",
+    "ttl": "Madiun, 1 Oktober 2008",
+    "tanggalLahir": "10-01",
+    "sosmed": "@f4ahrell",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/fahrel.jpg"
+  },
+  {
+    "generasi": 3,
+    "jabatan": "Infokom",
+    "nama": "Janathan Hafiz",
+    "panggilan": "Nathan",
+    "ttl": "Madiun, 14 Januari 2009",
+    "tanggalLahir": "01-14",
+    "sosmed": "@janatan_official_",
+    "foto": "https://iffrqakrixmgobvkzpzc.supabase.co/storage/v1/object/public/foto/nathan.jpg"
+  }
+]
